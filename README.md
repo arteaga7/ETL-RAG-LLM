@@ -1,5 +1,6 @@
 # ETL-RAG-LLM
 ETL process to prepare data for RAG and LLM, data is loaded to the PostgreSQL database. The data will be separeted into many tables (dimensions) to help the LLM to understand easily the data to answer the questions (see Fig. 1 and 2).
+
 ![alt text](images/init_tables.png)
 Fig. 1: Original tables.
 
@@ -9,7 +10,7 @@ Fig. 2: Final tables and dimensions.
 ## 🚀 How to run locally
 1. Clone this repository:
 ```
-git clone https://github.com/departamentoIA/ETL-RAG-LLM.git
+git clone https://github.com/arteaga7/ETL-RAG-LLM.git
 ```
 2. Set virtual environment and install dependencies.
 
