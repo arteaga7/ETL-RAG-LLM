@@ -1,0 +1,9 @@
+polars
+pandas
+ipykernel
+jupyter
+sqlalchemy
+pyarrow
+openpyxl
+xlsx2csv
+psycopg2-binary
